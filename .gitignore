@@ -1,5 +1,7 @@
 **/*.tfstate
 **/*.tfstate.*
+**/variables.tf
 **/*.log
+
 logs
 tmp
